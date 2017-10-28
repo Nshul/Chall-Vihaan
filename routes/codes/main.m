@@ -55,9 +55,9 @@ function n = main(fileName,amount, locPin, time, merchPin)
   endfor
 
     if (flag==1)
-    fprintf("The transaction is safe.");
+    fprintf("You can Proceed with your transaction.");
   else
-    fprintf("The transaction is possibly fraudulent.");
+    fprintf("Based on your history,this transaction doesn't confirm to your history,Please confirm your identity.");
   endif
 
   n=1;
