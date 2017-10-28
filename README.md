@@ -32,7 +32,7 @@ node app.js
 Open Your favourite browser and go to ```localhost:3000``` to access this site  
 
 This Project was made collectively by
-(Anshul)[https://www.github.com/nshul], (Rahmeen)[https://www.github.com/rahmeen14], (Akshita Aggarwal)[https://www.github.com/akshitaag], (Sarthak Tandon)[https://www.github.com/sarthak0120]
+[Anshul](https://www.github.com/nshul),    [Rahmeen](https://www.github.com/rahmeen14), [Akshita Aggarwal](https://www.github.com/akshitaag), [Sarthak Tandon](https://www.github.com/sarthak0120)
 
 
 The Octave code can be found in the code folder in routes.
